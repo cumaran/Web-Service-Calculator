@@ -1,7 +1,7 @@
 package com.cgi.ws;
 
 import javax.jws.WebService;
-
+// To display Calculator
 @WebService
 public class MyCalculator {
 	public int add(int first, int second) {
