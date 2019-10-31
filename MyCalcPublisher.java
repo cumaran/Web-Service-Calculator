@@ -1,7 +1,7 @@
 package com.cgi.ws;
 
 import javax.xml.ws.Endpoint;
-
+// Calls the webservice
 public class MyCalcPublisher {
 
 	public static void main(String[] args) {
